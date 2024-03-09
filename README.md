@@ -1,6 +1,7 @@
 # OS_Assignment-_2
-##Part A
-###What will the following commands do? 
+## Part A
+
+### What will the following commands do? 
 
 **echo "Hello, World!"**
 
