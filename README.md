@@ -26,3 +26,19 @@ ANS:- ls -a command is used to see hidden files and folders.
 ANS:- It will delete file name file.txt from the system.
 
 
+**Q- cp file1.txt file2.txt**
+
+ANS:- By using cp coommand we can copy the content of file1.txt to file2.txt
+
+
+**Q- mv file.txt /path/to/directory/**
+
+ANS:- we can use mv command to move file.txt to /path/to/directory.
+
+
+**Q- chmod 755 script.sh**
+
+ANS:- Its going to assign read, write and execute access to user and assigns only read and execute access to group and other.
+
+
+
